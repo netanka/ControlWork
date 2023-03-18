@@ -1,0 +1,17 @@
+words=[]
+result=[]
+word=null
+i=0, j=0
+while =! 'end'
+	word=readline()
+	words.add(word)
+if words==null then
+	words=["hello","2","world",":-)"]
+if i<words.length then
+	if j<words[i].length then
+		j=j+1
+	if j<=2 then
+		result.add(words[i])
+	j=0
+i=i+1	
+print(result)
